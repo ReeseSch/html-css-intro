@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 20vh;
+    border: 1.5mm solid black;
+    margin: 2vh 2vh 2vh 2vh
+}
+
+.sec2 {
+    height: 25vh;
+    border: 1.25mm dotted black;
+    margin: 2.5vh 2vh 2vh 2vh;
+}
+
+.int2 {
+    height: 70%;
+    width: 95%;
+    background-color: rgb(247, 242, 204);
+    margin: 10mm 10mm 10mm 10mm;
+    box-shadow: .5em .5em .5em black;
+}
+
+footer {
+    
+    
+}
+
+#purple {
+    height: 70%;
+    width: 3.75%;
+    background-color: blueviolet; 
+    margin: 45px 10px 15px 10px;
+}
+
+#green {
+    height: 90%;
+    width: 35vh;
+    background-color: rgb(11, 145, 11);
+    margin: 10px 10px 10px 8mm;
+}
+
+#blue {
+    height: 80%;
+    width: 14%;
+    background-color: rgb(157, 210, 235);
+    border-radius: 50%;
+    margin: 10px 10px 10px 8mm;
+}
+
+.column {
+    float: left;
+}
+.left, .right {
+    width: 25%;
+}
+.column-middle {
+    width: 50%;
+}
+
+#friendship {
+    text-align: center;
+    letter-spacing: .2em;
+    font-weight: lighter;
+    color: darkblue;
+    padding: 5%;
+    height: 30vh;
+    box-shadow: .2em .2em .2em rgb(116, 116, 116);
+    margin: 2em 25% 2em 25%;
+    border: .25mm solid rgb(211, 211, 211);
+
+}
